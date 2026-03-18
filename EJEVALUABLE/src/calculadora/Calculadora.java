@@ -16,4 +16,5 @@ public class Calculadora {
 
 		System.out.println("Suma: " + calc.sumar(10, 5));
 	}
+	public double dividir(double a, double b) { return a / b; }
 }
